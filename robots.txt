@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pohyoo.codiad.com/sitemap.xml
